@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0mqT06AF88=",
+  "success": true,
+  "projectFilePath": "E:\\workspace\\Kafka\\Demo\\ConsumerPartition\\ConsumerPartition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThuanBui\\.nuget\\packages\\confluent.kafka\\2.12.0\\confluent.kafka.2.12.0.nupkg.sha512",
+    "C:\\Users\\ThuanBui\\.nuget\\packages\\librdkafka.redist\\2.12.0\\librdkafka.redist.2.12.0.nupkg.sha512",
+    "C:\\Users\\ThuanBui\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.306\\microsoft.net.sdk.compilers.toolset.9.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}

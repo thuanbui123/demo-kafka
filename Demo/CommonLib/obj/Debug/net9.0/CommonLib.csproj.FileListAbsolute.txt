@@ -1,0 +1,12 @@
+E:\workspace\Kafka\Demo\CommonLib\bin\Debug\net9.0\CommonLib.deps.json
+E:\workspace\Kafka\Demo\CommonLib\bin\Debug\net9.0\CommonLib.dll
+E:\workspace\Kafka\Demo\CommonLib\bin\Debug\net9.0\CommonLib.pdb
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\CommonLib.csproj.AssemblyReference.cache
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\CommonLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\CommonLib.AssemblyInfoInputs.cache
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\CommonLib.AssemblyInfo.cs
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\CommonLib.csproj.CoreCompileInputs.cache
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\CommonLib.dll
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\refint\CommonLib.dll
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\CommonLib.pdb
+E:\workspace\Kafka\Demo\CommonLib\obj\Debug\net9.0\ref\CommonLib.dll
