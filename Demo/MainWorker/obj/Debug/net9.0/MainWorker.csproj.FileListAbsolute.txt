@@ -36,6 +36,7 @@ E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\MainWorker.GeneratedMSBuildE
 E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\MainWorker.AssemblyInfoInputs.cache
 E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\MainWorker.AssemblyInfo.cs
 E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\MainWorker.csproj.CoreCompileInputs.cache
+E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\MainWorker.sourcelink.json
 E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\MainWorker.csproj.Up2Date
 E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\MainWorker.dll
 E:\workspace\Kafka\Demo\MainWorker\obj\Debug\net9.0\refint\MainWorker.dll

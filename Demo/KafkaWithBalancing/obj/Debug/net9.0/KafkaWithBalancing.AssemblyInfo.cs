@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KafkaWithBalancing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+156935d1aeeee85404eb7a324f0ca93fc38b3f1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("KafkaWithBalancing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KafkaWithBalancing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

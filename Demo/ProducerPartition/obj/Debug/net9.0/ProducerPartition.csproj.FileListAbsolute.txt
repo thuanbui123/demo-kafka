@@ -35,6 +35,7 @@ E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\ProducerPartition.Gen
 E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\ProducerPartition.AssemblyInfoInputs.cache
 E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\ProducerPartition.AssemblyInfo.cs
 E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\ProducerPartition.csproj.CoreCompileInputs.cache
+E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\ProducerPartition.sourcelink.json
 E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\Producer.E765F5C1.Up2Date
 E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\ProducerPartition.dll
 E:\workspace\Kafka\Demo\ProducerPartition\obj\Debug\net9.0\refint\ProducerPartition.dll

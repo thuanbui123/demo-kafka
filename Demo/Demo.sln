@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerPartition", "Produc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerPartition", "ConsumerPartition\ConsumerPartition.csproj", "{8C98B765-CD55-4E96-84EC-2BEC4C7A606C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasePartitionApp", "IncreasePartitionApp\IncreasePartitionApp.csproj", "{43A0ABA6-1D91-43CF-9B9D-892655EBB1B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8C98B765-CD55-4E96-84EC-2BEC4C7A606C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C98B765-CD55-4E96-84EC-2BEC4C7A606C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C98B765-CD55-4E96-84EC-2BEC4C7A606C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A0ABA6-1D91-43CF-9B9D-892655EBB1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A0ABA6-1D91-43CF-9B9D-892655EBB1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A0ABA6-1D91-43CF-9B9D-892655EBB1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A0ABA6-1D91-43CF-9B9D-892655EBB1B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -35,6 +35,7 @@ E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\DlqConsumerApp.Generated
 E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\DlqConsumerApp.AssemblyInfoInputs.cache
 E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\DlqConsumerApp.AssemblyInfo.cs
 E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\DlqConsumerApp.csproj.CoreCompileInputs.cache
+E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\DlqConsumerApp.sourcelink.json
 E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\DlqConsu.3E9401C0.Up2Date
 E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\DlqConsumerApp.dll
 E:\workspace\Kafka\Demo\DlqConsumerApp\obj\Debug\net9.0\refint\DlqConsumerApp.dll

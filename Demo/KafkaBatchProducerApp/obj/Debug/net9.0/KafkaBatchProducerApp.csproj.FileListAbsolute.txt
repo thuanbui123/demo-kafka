@@ -35,6 +35,7 @@ E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\KafkaBatchProduce
 E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\KafkaBatchProducerApp.AssemblyInfoInputs.cache
 E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\KafkaBatchProducerApp.AssemblyInfo.cs
 E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\KafkaBatchProducerApp.csproj.CoreCompileInputs.cache
+E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\KafkaBatchProducerApp.sourcelink.json
 E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\KafkaBat.EE61EB66.Up2Date
 E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\KafkaBatchProducerApp.dll
 E:\workspace\Kafka\Demo\KafkaBatchProducerApp\obj\Debug\net9.0\refint\KafkaBatchProducerApp.dll

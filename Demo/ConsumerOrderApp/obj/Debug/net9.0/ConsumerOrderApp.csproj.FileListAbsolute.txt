@@ -35,6 +35,7 @@ E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\ConsumerOrderApp.Gener
 E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\ConsumerOrderApp.AssemblyInfoInputs.cache
 E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\ConsumerOrderApp.AssemblyInfo.cs
 E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\ConsumerOrderApp.csproj.CoreCompileInputs.cache
+E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\ConsumerOrderApp.sourcelink.json
 E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\Consumer.F2F0617B.Up2Date
 E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\ConsumerOrderApp.dll
 E:\workspace\Kafka\Demo\ConsumerOrderApp\obj\Debug\net9.0\refint\ConsumerOrderApp.dll

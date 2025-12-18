@@ -33,6 +33,7 @@ E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\KafkaWithBalancing.G
 E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\KafkaWithBalancing.AssemblyInfoInputs.cache
 E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\KafkaWithBalancing.AssemblyInfo.cs
 E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\KafkaWithBalancing.csproj.CoreCompileInputs.cache
+E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\KafkaWithBalancing.sourcelink.json
 E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\KafkaWit.E6185FC7.Up2Date
 E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\KafkaWithBalancing.dll
 E:\workspace\Kafka\Demo\KafkaWithBalancing\obj\Debug\net9.0\refint\KafkaWithBalancing.dll
